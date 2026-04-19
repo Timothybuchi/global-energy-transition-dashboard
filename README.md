@@ -21,6 +21,23 @@ Metrics used include CO2 emissions per capita, renewable energy share, GDP (cons
 - **Page 3 — Economic Lens:** Relationship between GDP, CO2 emissions, and renewable energy adoption among the world's largest economies, with a comparative metrics table and executive summary.
 - **Drill-through Pages:** A dynamic country energy profile page accessible from any country in the dataset, displaying individual CO2 emission trends, renewable energy share over time, and economic growth vs emissions trajectory. The United States and Bhutan were sampled to illustrate contrasting energy transition pathways.
 
+## Dashboard Preview
+
+### Page 1 — Overview
+![Overview](36b820ec-f3d0-427c-a4ee-2f9a97e140b2.jpeg)
+
+### Page 2 — Sustainability and Performance
+![Sustainability](f3411c08-0581-412b-b243-580566edea4b.jpeg)
+
+### Page 3 — Economic Lens
+![Economic Lens](6d2aa4c4-4c9a-4565-95db-e9fad4f59ed3.jpeg)
+
+### Drill-through — United States
+![United States](77642ac9-9b02-4835-ad30-ed8ff4266ff0.jpeg)
+
+### Drill-through — Bhutan
+![Bhutan](7b5bfcc2-d3e6-42c5-a78d-8bb63ccbc20a.jpeg)
+
 ## Key Findings
 - Global CO2 emissions per capita peaked around 2009 and have since declined, though high-emission regions continue to dominate the world map.
 - Smaller, lower-income nations such as Bhutan, Gabon, and Myanmar consistently lead in renewable energy share and sustainability performance, outperforming wealthier nations.
