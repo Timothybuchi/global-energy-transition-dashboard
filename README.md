@@ -17,7 +17,7 @@ Metrics used include CO2 emissions per capita, renewable energy share, GDP (cons
 
 ## Dashboard Structure
 - **Page 1 — Overview:** Global CO2 emissions trends, world emission map, top renewable energy countries, and key KPIs across the full dataset period.
-- **Page 2 — Sustainability and Performance:** Country-level sustainability rankings, forest cover analysis, and climate readiness vs adaptive capacity comparison by continent.
+- **Page 2 — Sustainability and Performance:** Country-level sustainability rankings, forest cover analysis, and climate readiness vs adaptive capacity comparison by emissions.
 - **Page 3 — Economic Lens:** Relationship between GDP, CO2 emissions, and renewable energy adoption among the world's largest economies, with a comparative metrics table and executive summary.
 - **Drill-through Pages:** A dynamic country energy profile page accessible from any country in the dataset, displaying individual CO2 emission trends, renewable energy share over time, and economic growth vs emissions trajectory. The United States and Bhutan were sampled to illustrate contrasting energy transition pathways.
 
